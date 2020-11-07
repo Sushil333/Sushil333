@@ -16,7 +16,7 @@
 <!-- 😄 Pronouns: ... -->
 - ⚡ Fun fact: 2 + 2 = 4 - 1 = 3 Quick Maths
 
-<div align="center">
+<div>
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sushil333&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Sushil's Github Stats">
 
