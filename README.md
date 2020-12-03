@@ -24,5 +24,7 @@
 </div>
 -->
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushil333&layout=compact&langs_count=10" alt="Sushil's github stats"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sushil333&show_icons=true&theme=tokyonight&include_all_commit=trues&count_private=true" alt="Sushil's github stats"/>
+
 
 
